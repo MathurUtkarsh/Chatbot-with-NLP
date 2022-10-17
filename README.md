@@ -8,4 +8,6 @@ In this notebook, I will show you how to create a simple and quick chatbot in py
 
 Libraries Used - NLTK Library in Python.
 
+Note -  You can add and change rules as per your requirment.
+
 Thank You:)
